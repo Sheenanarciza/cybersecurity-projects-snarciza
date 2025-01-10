@@ -29,3 +29,5 @@ Incident Response Automation Using Lambda and CloudTrail Cost: Free (Lambda, Clo
 ##################################################################################################################### These projects cover a wide range of core cybersecurity practices, from network design to encryption, threat detection, and incident response. Each of these projects can be done within AWS’s free tier (with some limitations depending on usage), and they’ll help you gain hands-on experience in securing cloud environments.
 
 As you work through these projects, be sure to document your process and findings (either in a blog, GitHub repo, or personal notes), as this will not only reinforce your learning but also give you something to show to potential employers or clients.
+
+test 
